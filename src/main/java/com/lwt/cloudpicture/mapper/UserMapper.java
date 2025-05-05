@@ -1,4 +1,4 @@
-package generator.mapper;
+package com.lwt.cloudpicture.mapper;
 
 import com.lwt.cloudpicture.model.entity.User;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;

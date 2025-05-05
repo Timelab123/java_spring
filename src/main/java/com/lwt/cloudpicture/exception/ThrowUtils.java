@@ -15,7 +15,6 @@ public class ThrowUtils {
             throw runtimeException;
         }
     }
-
 /**
  * 条件成立都抛出异常
  * @param condition 条件
